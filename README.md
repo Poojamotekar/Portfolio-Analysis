@@ -21,22 +21,22 @@ Determine the annualized volatility of the portfolio (using an annualization fac
 Produce an area chart grouping asset weights by their categories, as detailed in the asset_information_data.csv.
 
 # Insights 🎯
-Asset Price over time:
+### Asset Price over time:
 ![image](https://github.com/Poojamotekar/Portfolio-Analysis/assets/66488693/f390d7d8-25e9-435d-9dc6-f98275ac4b4a)
-Price of the Asset5 Segemented by Months:
+### Price of the Asset5 Segemented by Months:
 ![image](https://github.com/Poojamotekar/Portfolio-Analysis/assets/66488693/cbebff2f-46fb-406c-a9f2-89e4d83886bc)
-Scatter Plot for Asset 2 and 3:
+### Scatter Plot for Asset 2 and 3:
 ![image](https://github.com/Poojamotekar/Portfolio-Analysis/assets/66488693/fb994b68-251d-43f7-894e-dcc86c1beafa)
-Stacked Area Plot AssteValues Over Time:
+### Stacked Area Plot AssteValues Over Time:
 ![image](https://github.com/Poojamotekar/Portfolio-Analysis/assets/66488693/e5332f38-f107-461b-aeef-c224de6e0ea6)
-The historical cumulative returns of the portfolio:
+### The historical cumulative returns of the portfolio:
 ![image](https://github.com/Poojamotekar/Portfolio-Analysis/assets/66488693/f924d29b-ff75-4bb2-858a-71a075f6a7da)
 
 
 # Conclusions 💡
-There is a significant price drop in almost all assets in 2020 (Feb-May)
-Asset 1  & Asset 3 have the highest correlation Asset 2 & Asset 3 have highest correlation.
-During the drop in 2020 Fixed income (mainly Asset 1)and Alternative assets (Asset 5) have the most asset weights.
-Portfolio annual return is 0.12 which indicates that the portfolio has experienced growth in value over the years.
-Portfolio anuual volatility is 0.085 which indicates the level of risk associated with the portfolio's returns over a one-year period.
+1)There is a significant price drop in almost all assets in 2020 (Feb-May)
+2)Asset 1  & Asset 3 have the highest correlation Asset 2 & Asset 3 have highest correlation.
+3)During the drop in 2020 Fixed income (mainly Asset 1)and Alternative assets (Asset 5) have the most asset weights.
+4)Portfolio annual return is 0.12 which indicates that the portfolio has experienced growth in value over the years.
+4)Portfolio anuual volatility is 0.085 which indicates the level of risk associated with the portfolio's returns over a one-year period.
 
