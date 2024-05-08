@@ -35,8 +35,12 @@ Produce an area chart grouping asset weights by their categories, as detailed in
 
 # Conclusions 💡
 1)There is a significant price drop in almost all assets in 2020 (Feb-May)
+
 2)Asset 1  & Asset 3 have the highest correlation Asset 2 & Asset 3 have highest correlation.
+
 3)During the drop in 2020 Fixed income (mainly Asset 1)and Alternative assets (Asset 5) have the most asset weights.
+
 4)Portfolio annual return is 0.12 which indicates that the portfolio has experienced growth in value over the years.
-4)Portfolio anuual volatility is 0.085 which indicates the level of risk associated with the portfolio's returns over a one-year period.
+
+5)Portfolio anuual volatility is 0.085 which indicates the level of risk associated with the portfolio's returns over a one-year period.
 
